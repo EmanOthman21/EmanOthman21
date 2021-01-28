@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/eman-othman-26634914a/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/eothman21" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="mailto:eothman21@gmail.com" title="Gmail"><img width="22" src="https://image.flaticon.com/icons/svg/732/732200.svg"> Gmail</a></code>
+</h5>
+
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> About me 
 - <p>
   I'm Eman, a computer engineer student from <b>Cairo, Egypt</b>, a junior software engineer. 
@@ -36,11 +42,3 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-# 📫 How to reach me
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/eman-othman-26634914a/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/eothman21" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="mailto:eothman21@gmail.com" title="Gmail"><img width="22" src="https://image.flaticon.com/icons/svg/732/732200.svg"> Gmail</a></code>
-</h5>
